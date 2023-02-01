@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# My custom additions:
+
+*.png
+*.h5
+*.notebbok
